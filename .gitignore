@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+temp_docs/
+config.json
+FAQ.txt
+groq-api.txt
+app.py
+*.txt
+!book.txt  # Negates the rule to exclude `book.txt`
